@@ -15,3 +15,5 @@
 ![](https://github.com/RayanaRM/noise-image-generation/blob/main/ex_8.bmp) 
 
 ## 3 - Criar diferentes mapeamentos de biomas
+![](https://github.com/RayanaRM/noise-image-generation/blob/main/bioma1.bmp) 
+![](https://github.com/RayanaRM/noise-image-generation/blob/main/bioma2.bmp) 
